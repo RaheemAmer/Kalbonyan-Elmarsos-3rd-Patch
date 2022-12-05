@@ -95,6 +95,8 @@
 <h1> Legacy Curriculum </h1>
 </summary>
  
+ **LEARN Programming Foundations**
+
 1. [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) 
 
 (2h 10m)[https://www.linkedin.com/learning/programming-foundations-fundamentals-3](https://www.linkedin.com/learning/programming-foundations-fundamentals-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b)
@@ -153,11 +155,16 @@
 
 **LEARN ABOUT CLOUD PROVIDER (AWS)**
 
-1. [AWS Certified Cloud Practitioner (CLF-C01)](https://acloud.guru/overview/aws--certified-cloud-practitioner) (16h12 m)[https://acloud.guru/overview/aws--certified-cloud-practitioner](https://acloud.guru/overview/aws--certified-cloud-practitioner)
-2. [AWS Certified Solutions Architect Associate](https://acloudguru.com/course/aws-certified-solutions-architect-associate-saa-c02) (45h 0m)[https://acloudguru.com/course/aws-certified-solutions-architect-associate-saa-c02](https://acloudguru.com/course/aws-certified-solutions-architect-associate-saa-c02)
+1. [AWS Certified Cloud Practitioner (CLF-C01)](https://acloud.guru/overview/aws--certified-cloud-practitioner) 
+ 
+(16h12 m)[https://acloud.guru/overview/aws--certified-cloud-practitioner](https://acloud.guru/overview/aws--certified-cloud-practitioner)
+ 
+2. [AWS Certified Solutions Architect Associate](https://acloudguru.com/course/aws-certified-solutions-architect-associate-saa-c02)
+ 
+(45h 0m)[https://acloudguru.com/course/aws-certified-solutions-architect-associate-saa-c02](https://acloudguru.com/course/aws-certified-solutions-architect-associate-saa-c02)
 
 **LEARN SERVERLESS**
 
-1. [Serverless Stack (The Basics)    https://sst.dev/guide.html](https://sst.dev/guide.html)
+1. [Serverless Stack (The Basics)](https://sst.dev/guide.html](https://sst.dev/guide.html)
  
  </details>
