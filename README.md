@@ -3,18 +3,17 @@
  <br/>
 
  <a href="https://www.linkedin.com/company/%D9%83%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D8%B5%D9%88%D8%B5/" target="_blank"><img src="https://img.shields.io/badge/-Kalbonyan%20Elmarsos-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-### The Aim of this internship
-- <a href="#Fundamentals">Learn Programming Fundamentals</a>
-- <a href="#HTML, CSS, and GitHub">LEARN HTML, CSS, and GitHub</a>
-- <a href="#JAVASCRIPT">LEARN JAVASCRIPT</a>
-- <a href="#MERN">LEARN MERN (MERN = MongoDB, Express.js, React.js, NodeJS)</a>
-- <a href="#SERVERLESS">LEARN ABOUT CLOUD PROVIDER and SERVERLESS</a>
+### Internship content and handovers
+- [Learn Programming Fundamentals](https://github.com/RaheemAmer/Kalbonyan-Elmarsos-3rd-Patch/blob/main/Learn%20Programming%20Fundamentals.md)
+- [LEARN HTML, CSS, and GitHub](https://github.com/RaheemAmer/Kalbonyan-Elmarsos-3rd-Patch/blob/main/LEARN%20HTML%2C%20CSS%2C%20and%20GitHub.md)
+- [LEARN JAVASCRIPT](https://github.com/RaheemAmer/Kalbonyan-Elmarsos-3rd-Patch/blob/main/LEARN%20JAVASCRIPT.md)
+- [LEARN MERN (MERN = MongoDB, Express.js, React.js, NodeJS)](https://github.com/RaheemAmer/Kalbonyan-Elmarsos-3rd-Patch/blob/main/LEARN%20MERN%20(MERN%20%3D%20MongoDB%2C%20Express.js%2C%20React.js%2C%20NodeJS).md)
+- [LEARN ABOUT CLOUD PROVIDER and SERVERLESS](https://github.com/RaheemAmer/Kalbonyan-Elmarsos-3rd-Patch/blob/main/LEARN%20ABOUT%20CLOUD%20PROVIDER%20and%20SERVERLESS.md)
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20All%20Courses-%2B200h-blue">
 
 - - - -
 <!-- Fundamentals -->
-<span id="Fundamentals"> </span>
 # Learn Programming Fundamentals
 
 ![0%](https://progress-bar.dev/0/?title=Done)
@@ -27,7 +26,6 @@
 
 #
 <!-- HTML, CSS, and GitHub -->
-<span id="HTML, CSS, and GitHub"> </span>
 # LEARN HTML, CSS, and GitHub
 
 ![0%](https://progress-bar.dev/0/?title=Done)
@@ -40,7 +38,6 @@
 
 - - - -
 <!-- LEARN JAVASCRIPT -->
-<span id="JAVASCRIPT"> </span>
 # LEARN JAVASCRIPT
 
 ![0%](https://progress-bar.dev/0/?title=Done)
@@ -53,8 +50,6 @@
 
 - - - -
 <!-- MERN -->
-
-<span id="MERN"></span>
 # LEARN MERN (MERN = MongoDB, Express.js, React.js, NodeJS) 
 
 ![0%](https://progress-bar.dev/0/?title=Done)
@@ -77,7 +72,6 @@
 
 - - - -
 <!-- SERVERLESS -->
-<span id="SERVERLESS"></span>
 # LEARN ABOUT CLOUD PROVIDER and SERVERLESS 
 ![0%](https://progress-bar.dev/0/?title=Done)
 
