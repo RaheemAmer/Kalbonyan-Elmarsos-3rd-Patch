@@ -11,7 +11,6 @@
 - <a href="#SERVERLESS">LEARN ABOUT CLOUD PROVIDER and SERVERLESS</a>
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20All%20Courses-%2B200h-blue">
-<br>
 
 - - - -
 <!-- Fundamentals -->
