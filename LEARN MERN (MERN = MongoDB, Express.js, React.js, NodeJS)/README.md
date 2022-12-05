@@ -21,3 +21,38 @@
   <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-110h-blue">
 
 # Handovers
+
+# Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)
+## Project
+
+### Monsters Rolodex
+- [Project-code](./Projects/Monsters-Rolodex)
+- [Live Demo]()
+### CRWN Clothing Store
+- [Project-code](./Projects/CRWN-Clothing-Store)
+- [Live Demo]()
+---
+## Code
+[Code](Code)
+
+---
+# Complete NodeJS Developer in 2022 (GraphQL, MongoDB, + more)
+## Projects
+### Multiplayer Pong
+- [Project-code](./Projects/Multiplayer-Pong)
+- [Live Demo]()
+### Planet Finder
+- [Project-code](./Projects/Planet-Finder)
+### NASA Mission Control
+- [Project-code](./Projects/NASA-Mission-Control)
+- [Live Demo]()
+---
+## Code
+[Code](Code)
+
+---
+
+## Certificates
+
+[]()
+
