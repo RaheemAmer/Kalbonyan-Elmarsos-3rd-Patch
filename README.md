@@ -97,45 +97,27 @@
  
  # LEARN Programming Foundations
 
-1. [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) 
+1. [Programming Foundations: Fundamentals (2h 10m)](https://www.linkedin.com/learning/programming-foundations-fundamentals-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) 
 
-(2h 10m)[https://www.linkedin.com/learning/programming-foundations-fundamentals-3](https://www.linkedin.com/learning/programming-foundations-fundamentals-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b)
+2. [Programming Foundations: Beyond the Fundamentals (2h 4m)](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) 
 
-2. [Programming Foundations: Beyond the Fundamentals](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) 
+3. [Programming Foundations: Object-Oriented Design (2h 40m)](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) 
 
-(2h 4m)[https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b)
+4. [Programming Foundations: Data Structures (2h 20m)](https://www.linkedin.com/learning/programming-foundations-data-structures-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) 
 
-3. [Programming Foundations: Object-Oriented Design](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) 
+5. [Programming Foundations: Algorithms (1h 45m)](https://www.linkedin.com/learning/programming-foundations-algorithms?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) 
 
-(2h 40m)[https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3)
+6. [Programming Foundations: Design Patterns (1h 44m)](https://www.linkedin.com/learning/programming-foundations-design-patterns-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) 
 
-4. [Programming Foundations: Data Structures](https://www.linkedin.com/learning/programming-foundations-data-structures-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) 
+7. [Programming Foundations: Databases (1h 25m)](https://www.linkedin.com/learning/programming-foundations-databases-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) 
 
-(2h 20m)[https://www.linkedin.com/learning/programming-foundations-data-structures-2](https://www.linkedin.com/learning/programming-foundations-data-structures-2)
+8. [Programming Foundations: APIs and Web Services (1h 14m)](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) 
 
-5. [Programming Foundations: Algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) 
+9. [Programming Foundations: Software Testing/QA (0h 53m)](https://www.linkedin.com/learning/programming-foundations-software-testing-qa?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) 
 
-(1h 45m)[https://www.linkedin.com/learning/programming-foundations-algorithms](https://www.linkedin.com/learning/programming-foundations-algorithms)
+10. [Learning GitHub (2h 11m)](https://www.linkedin.com/learning/learning-github) 
 
-6. [Programming Foundations: Design Patterns](https://www.linkedin.com/learning/programming-foundations-design-patterns-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) 
 
-(1h 44m)[https://www.linkedin.com/learning/programming-foundations-design-patterns-2](https://www.linkedin.com/learning/programming-foundations-design-patterns-2)
-
-7. [Programming Foundations: Databases](https://www.linkedin.com/learning/programming-foundations-databases-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) 
-
-(1h 25m)[https://www.linkedin.com/learning/programming-foundations-databases-2](https://www.linkedin.com/learning/programming-foundations-databases-2)
-
-8. [Programming Foundations: APIs and Web Services](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) 
-
-(1h 14m)[https://www.linkedin.com/learning/programming-foundations-apis-and-web-services](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services)
-
-9. [Programming Foundations: Software Testing/QA](https://www.linkedin.com/learning/programming-foundations-software-testing-qa?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) 
-
-(0h 53m)[https://www.linkedin.com/learning/programming-foundations-software-testing-qa](https://www.linkedin.com/learning/programming-foundations-software-testing-qa)
-
-10. [Learning GitHub](https://www.linkedin.com/learning/learning-github) 
-
-(2h 11m)[https://www.linkedin.com/learning/learning-github](https://www.linkedin.com/learning/learning-github)
 
 # LEARN HTML and CSS
 
@@ -155,16 +137,13 @@
 
 # LEARN ABOUT CLOUD PROVIDER (AWS)
 
-1. [AWS Certified Cloud Practitioner (CLF-C01)](https://acloud.guru/overview/aws--certified-cloud-practitioner) 
- 
-(16h12 m)[https://acloud.guru/overview/aws--certified-cloud-practitioner](https://acloud.guru/overview/aws--certified-cloud-practitioner)
- 
-2. [AWS Certified Solutions Architect Associate](https://acloudguru.com/course/aws-certified-solutions-architect-associate-saa-c02)
- 
-(45h 0m)[https://acloudguru.com/course/aws-certified-solutions-architect-associate-saa-c02](https://acloudguru.com/course/aws-certified-solutions-architect-associate-saa-c02)
+1. [AWS Certified Cloud Practitioner (CLF-C01) (16h12 m)](https://acloud.guru/overview/aws--certified-cloud-practitioner) 
+  
+2. [AWS Certified Solutions Architect Associate (45h 0m)](https://acloudguru.com/course/aws-certified-solutions-architect-associate-saa-c02)
+
 
 # LEARN SERVERLESS
 
-1. [Serverless Stack (The Basics)](https://sst.dev/guide.html](https://sst.dev/guide.html)
+1. [Serverless Stack - The Basics](https://sst.dev/guide.html)
  
  </details>
