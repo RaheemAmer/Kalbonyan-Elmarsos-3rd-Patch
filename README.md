@@ -7,11 +7,11 @@
 
 ### Internship content and handovers
 
-- [Learn Programming Fundamentals](https://github.com/RaheemAmer/Kalbonyan-Elmarsos-3rd-Patch/blob/main/Learn%20Programming%20Fundamentals.md)
-- [LEARN HTML, CSS, and GitHub](https://github.com/RaheemAmer/Kalbonyan-Elmarsos-3rd-Patch/blob/main/LEARN%20HTML%2C%20CSS%2C%20and%20GitHub.md)
-- [LEARN JAVASCRIPT](https://github.com/RaheemAmer/Kalbonyan-Elmarsos-3rd-Patch/blob/main/LEARN%20JAVASCRIPT.md)
-- [LEARN MERN (MERN = MongoDB, Express.js, React.js, NodeJS)](https://github.com/RaheemAmer/Kalbonyan-Elmarsos-3rd-Patch/blob/main/LEARN%20MERN%20(MERN%20%3D%20MongoDB%2C%20Express.js%2C%20React.js%2C%20NodeJS).md)
-- [LEARN ABOUT CLOUD PROVIDER and SERVERLESS](https://github.com/RaheemAmer/Kalbonyan-Elmarsos-3rd-Patch/blob/main/LEARN%20ABOUT%20CLOUD%20PROVIDER%20and%20SERVERLESS.md)
+- [Learn Programming Fundamentals](https://github.com/RaheemAmer/Kalbonyan-Elmarsos-3rd-Patch/tree/main/Learn%20Programming%20Fundamentals)
+- [LEARN HTML, CSS, and GitHub](https://github.com/RaheemAmer/Kalbonyan-Elmarsos-3rd-Patch/tree/main/LEARN%20HTML%2C%20CSS%2C%20and%20GitHub)
+- [LEARN JAVASCRIPT](https://github.com/RaheemAmer/Kalbonyan-Elmarsos-3rd-Patch/tree/main/LEARN%20JAVASCRIPT)
+- [LEARN MERN (MERN = MongoDB, Express.js, React.js, NodeJS)](https://github.com/RaheemAmer/Kalbonyan-Elmarsos-3rd-Patch/tree/main/LEARN%20MERN%20(MERN%20%3D%20MongoDB%2C%20Express.js%2C%20React.js%2C%20NodeJS))
+- [LEARN ABOUT CLOUD PROVIDER and SERVERLESS](https://github.com/RaheemAmer/Kalbonyan-Elmarsos-3rd-Patch/tree/main/LEARN%20ABOUT%20CLOUD%20PROVIDER%20and%20SERVERLESS)
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20All%20Courses-%2B200h-blue">
 
