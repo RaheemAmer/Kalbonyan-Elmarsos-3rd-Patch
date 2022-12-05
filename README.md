@@ -131,7 +131,9 @@
 
 (0h 53m)[https://www.linkedin.com/learning/programming-foundations-software-testing-qa](https://www.linkedin.com/learning/programming-foundations-software-testing-qa)
 
-10. [Learning GitHub](https://www.linkedin.com/learning/learning-github) (2h 11m)[https://www.linkedin.com/learning/learning-github](https://www.linkedin.com/learning/learning-github)
+10. [Learning GitHub](https://www.linkedin.com/learning/learning-github) 
+
+(2h 11m)[https://www.linkedin.com/learning/learning-github](https://www.linkedin.com/learning/learning-github)
 
 **LEARN HTML and CSS**
 
