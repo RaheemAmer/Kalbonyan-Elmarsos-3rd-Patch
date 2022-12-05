@@ -4,15 +4,14 @@
 
  <a href="https://www.linkedin.com/company/%D9%83%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D8%B5%D9%88%D8%B5/" target="_blank"><img src="https://img.shields.io/badge/-Kalbonyan%20Elmarsos-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### The Aim of this internship
-- <a href="#Fundamentals">Learn Programing Fundamentals ,HTMl and CSS </a>
-- <a href="#MERN">Learn MERN Stack</a>
-- <a href="#AWS">Learn How to Deploy your web applications with Cloud Provider (AWS)</a>
-- <a href="#serverless">Learn How to Make serverless web applications</a>
+- <a href="#Fundamentals">Learn Programing Fundamentals</a>
+- <a href="#HTML, CSS, and GitHub">LEARN HTML, CSS, and GitHub</a>
+- <a href="#JAVASCRIPT">LEARN JAVASCRIPT</a>
+- <a href="#MERN">LEARN MERN (MERN = MongoDB, Express.js, React.js, NodeJS)</a>
+- <a href="#SERVERLESS">LEARN ABOUT CLOUD PROVIDER and SERVERLESS</a>
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20All%20Courses-%2B200h-blue">
 <br>
-
-> Note click on the name of the course to see its repository that contains projects, challenges and certificates
 
 - - - -
 <!-- Fundamentals -->
@@ -28,8 +27,8 @@
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-4h14m-blue">
 
 #
-<!-- Fundamentals -->
-<span id="Fundamentals"> </span>
+<!-- HTML, CSS, and GitHub -->
+<span id="HTML, CSS, and GitHub"> </span>
 # LEARN HTML, CSS, and GitHub
 
 ![0%](https://progress-bar.dev/0/?title=Done)
@@ -42,7 +41,7 @@
 
 - - - -
 <!-- LEARN JAVASCRIPT -->
-<span id="LEARN JAVASCRIPT"> </span>
+<span id="JAVASCRIPT"> </span>
 # LEARN JAVASCRIPT
 
 ![0%](https://progress-bar.dev/0/?title=Done)
@@ -57,7 +56,7 @@
 <!-- MERN -->
 
 <span id="MERN"></span>
-# LEARN JAVASCRIPT (MERN = MongoDB, Express.js, React.js, NodeJS) 
+# LEARN MERN (MERN = MongoDB, Express.js, React.js, NodeJS) 
 
 ![0%](https://progress-bar.dev/0/?title=Done)
 
@@ -79,8 +78,8 @@
 
 - - - -
 
-<!-- CLOUD -->
-<span id="CLOUD"></span>
+<!-- SERVERLESS -->
+<span id="SERVERLESS"></span>
 # LEARN ABOUT CLOUD PROVIDER and SERVERLESS 
 ![0%](https://progress-bar.dev/0/?title=Done)
 
