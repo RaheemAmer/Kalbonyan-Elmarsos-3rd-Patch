@@ -95,7 +95,7 @@
 <h1> Legacy Curriculum </h1>
 </summary>
  
- **LEARN Programming Foundations**
+ # LEARN Programming Foundations
 
 1. [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b) 
 
@@ -137,11 +137,11 @@
 
 (2h 11m)[https://www.linkedin.com/learning/learning-github](https://www.linkedin.com/learning/learning-github)
 
-**LEARN HTML and CSS**
+# LEARN HTML and CSS
 
 1. [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)
 
-**LEARN JAVASCRIPT (REACT AND NODE)**
+# LEARN JAVASCRIPT (REACT AND NODE)
 
 1. JavaScript - Select one of these 2 courses to complete
     1. [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
@@ -153,7 +153,7 @@
     1. [Complete NodeJS Developer in 2022 (GraphQL, MongoDB, + more)](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
     2. [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 
-**LEARN ABOUT CLOUD PROVIDER (AWS)**
+# LEARN ABOUT CLOUD PROVIDER (AWS)
 
 1. [AWS Certified Cloud Practitioner (CLF-C01)](https://acloud.guru/overview/aws--certified-cloud-practitioner) 
  
@@ -163,7 +163,7 @@
  
 (45h 0m)[https://acloudguru.com/course/aws-certified-solutions-architect-associate-saa-c02](https://acloudguru.com/course/aws-certified-solutions-architect-associate-saa-c02)
 
-**LEARN SERVERLESS**
+# LEARN SERVERLESS
 
 1. [Serverless Stack (The Basics)](https://sst.dev/guide.html](https://sst.dev/guide.html)
  
