@@ -1,33 +1,14 @@
-### Course details
+# Learn Programming Fundamentals
 
--  Gain the core knowledge to begin programming in any language. In this course, instructor Annyce Davis uses Python to explore the core concepts and structure of programming languages and helps you grasp what’s going on under the hood. After going over basic statements and expressions in Python, Annyce explores strings, variables, and conditional code which are common topics in all programming languages. She also shows how to work with different kinds of data and troubleshoot a variety of errors. Along the way, she compares how code is written in several different languages and provides guidance on the criteria to use when choosing a programming language. Upon wrapping up this course, you’ll have the knowledge you need to continue your coding journey in whichever language piques your interest.
+![50%](https://progress-bar.dev/0/?title=Done)
+<br />
 
----
-### Learning objectives
+- ## PROGRAMMING FOUNDATIONS Introduction
 
-- Writing source code
-- Basic statements and expressions
-- Working with numbers and strings
-- Writing conditional code
-- Increasing your efficiency with functions
-- Working with comments
-- Making decisions in code
-- Troubleshooting errors
-- Learning about other languages
+  - [x] `in progress` `2h 10m` - 01 - [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fundamentals-of-programming?autoplay=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b)
+  - [] `in progress` `2h 4m` - 02 - [Programming Foundations: Beyond the Fundamentals](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/broadening-your-knowledge-of-programming-fundamentals?autoplay=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b)
 
-----
-# Programming-foundations-Beyond-fundamentals
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-4h14m-blue">
 
-### Course details
-- Continue your coding journey as you dive deeper into the foundational concepts, practices, and terminology of programming. In this installment of the Programming Foundations series, instructor Sasha Vodnik goes beyond the basics, using Python to tackle a variety of intermediate and advanced concepts and skills you can add to your programming repertoire. Sasha covers creating and working with collections and loops, combining and manipulating strings, and using external code—all of which are critical concepts, regardless of which programming language you end up working with. He goes over several essential processes, such as choosing a code style and debugging. Plus, he digs into a few more advanced concepts, including memory management and multithreading.
-
----
-###  Handovers
-
-1. 
-
-----
-###  Certificates
-
-[Preview Certificate]()
+# Certificates
 [Preview Certificate]()
