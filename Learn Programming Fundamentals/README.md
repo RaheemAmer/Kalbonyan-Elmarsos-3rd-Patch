@@ -116,6 +116,189 @@
 	</aside>
 </details>  
 
+<details>
+		<summary> Programming Foundations: Beyond the Fundamentals </summary>
+	Collection - grouping related stuff [list]
+
+	```python
+	#list
+	cities = [
+		"l1",
+		"l2",
+		"l3"
+	]
+	print(cities[1])
+
+	#dict
+	cities = {
+		"id":"l1",
+		"animal":"cat"
+	}
+
+	print(cities["id"])
+	```
+
+	<aside>
+	⚠️ mutable vs immutable collections (defers from programming language to another)
+
+	</aside>
+
+	<aside>
+	⚠️ in python, a tuple is an immutable list
+
+	</aside>
+
+	<aside>
+	⚠️ list in  python, is array in JavaScript and c++
+
+	</aside>
+
+	<aside>
+	⚠️ Dicts are also known as associative arrays - maps - tables
+
+	</aside>
+
+	---
+
+	for is used to create a loop - iteration
+
+	```python
+	cities = [
+		"l1",
+		"l2",
+		"l3"
+	]
+
+	for city in cities:
+		print(city)
+
+	# i= iterator
+	i = 5
+	while i <= 100:
+		print(i)
+		i+=5
+	print("list done")
+
+	fruits = [
+		"pinapple",
+		"strawberry",
+		"mango"
+	]
+
+	print("our fruit selection: ")
+	for fruit in fruits:
+		print(fruit)
+	```
+
+	---
+
+	**module** - python file that contains code using import 
+
+	**package or library** → using multiple modules together to be used in a group (using ingredients to cook a  cake)
+
+	**framework** →  when a set of code is not just used together but used in a specific way (buying ready cake) - A framework gives you a structure to use as a starting point and customize.
+
+	```python
+	import testmodule
+	testmodule.mult(10,5)
+	```
+
+	---
+
+	concatenation - using methods like find or index
+
+	slice notation → string[start:end]
+
+	---
+
+	regular expression → create a description of a pattern that you want to match
+
+	---
+
+	```python
+	distanceInMiles = float(input("Please enter desired value to be  converted: "))
+	distanceInKm = distanceInMiles * 1.689344
+	print("The converted value is: ", distanceInKm )
+	```
+
+	---
+
+	Code style
+
+	airbnb style guide
+
+	---
+
+	pseudocode
+
+	---
+
+	input and output in python
+
+	```python
+	infile = open("values.txt", "rt")
+	infile.close()
+	```
+
+	---
+
+	### Debugging
+
+	1. Syntax error
+	    - a loop that counts in the wrong direction
+	2. Runtime error 
+	    - calling a function that doesn't exist
+	    - referencing a variable name that isn't defined
+	3. Logic error
+	    - a loop that counts in the wrong direction
+
+	---
+
+	### IDE
+
+	1. Syntax highlighting
+	2. Auto Completetion
+	3. Linting → finding bugs before execution
+
+	Each programming language has an IDE suitable for it’s needs
+
+	---
+
+	### Test Cases
+
+	to check logic errors
+
+	---
+
+	### (OOP) Object
+
+	<aside>
+	⚠️ Each object has behaviors, which are built using methods.
+
+	</aside>
+
+	has: 
+
+	1. methods
+	2. properties
+
+	---
+
+	### Why aren't all possible methods made available to every object?
+
+	<aside>
+	⚠️ to avoid overloading computer memory with unneeded methods, If all objects had access to all methods in the language, your programs would need more computer memory.
+
+	</aside>
+
+	---
+
+	Memory leak - Garbage collection (a compiler keeps track of which items in memory are no longer needed and deletes them automatically)
+
+	Multi-threading
+
+	Algorithms
+</details>
 # Certificates
 
 ![image](https://user-images.githubusercontent.com/18606136/205850580-981680fe-a56d-439a-b9cf-e96ca41066b6.png)
