@@ -1,6 +1,6 @@
 # Learn Programming Fundamentals
 
-![100%](https://progress-bar.dev/50/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 <br />
 
 - ## PROGRAMMING FOUNDATIONS Introduction
