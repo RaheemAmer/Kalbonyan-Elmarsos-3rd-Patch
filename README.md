@@ -67,7 +67,7 @@
 
 - [ ]  `in progress` `49h 25m` - 07 - [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-69h-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-49h25m-blue">
 
 - ## NodeJs
 
@@ -79,7 +79,7 @@
 
 - [ ]  `in progress` `20h - 32m` - 09 - [MERN Stack Course 2022 - MongoDB, Express, React and NodeJS | Udemy](https://www.udemy.com/course/mern-stack-course-mongodb-express-react-and-nodejs/)
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-110h-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-20h32m-blue">
 
 - - - -
 <!-- SERVERLESS -->
