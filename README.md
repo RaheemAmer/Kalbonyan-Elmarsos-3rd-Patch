@@ -33,7 +33,7 @@
 <!-- HTML, CSS, and GitHub -->
 # LEARN HTML, CSS, and GitHub
 
-![0%](https://progress-bar.dev/0/?title=Done)
+![50%](https://progress-bar.dev/50/?title=Done)
 <br />
 
 - ## HTML, CSS, and GitHub Courses
